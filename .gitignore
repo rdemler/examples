@@ -1,0 +1,6 @@
+
+C#/EventHandlerExample/.vs/EventHandlerExample/v16/.suo
+*.lock
+*.ide
+**/bin/
+**/obj/
