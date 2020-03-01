@@ -1,0 +1,12 @@
+ul li {
+    font-family:'Calibri';
+    font-size:12pt;
+}
+
+ul li#idExample{
+    font-weight:bold;
+}
+
+ul li.classExample {
+    font-style:italic;
+}
